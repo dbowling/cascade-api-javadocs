@@ -1,4 +1,4 @@
-# Cascade CMS internal API Javadocs 
+# Cascade CMS Internal API Javadocs 
 
 Javadocs generated from Hannon Hill's Cascade CMS API jars. The missing documentation for developers.
 
